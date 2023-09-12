@@ -21,7 +21,7 @@
       "name": "Alt Leap",
       "symbol": "LEAP",
       "decimals": 18,
-      "logoURI": "leaplogo"
+      "logoURI": "https://raw.githubusercontent.com/alteriuml2/token-list/master/assets/alterium.png"
     }
   ],
   "version": {

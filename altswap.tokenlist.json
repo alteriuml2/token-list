@@ -9,7 +9,7 @@
   "tokens": [
     {
       "chainId": 420692,
-      "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+      "address": "0x3183DfAC34c8a0De3434F3b6636d0F1d932f4325",
       "name": "Wrapped ETH",
       "symbol": "WETH",
       "decimals": 18,
@@ -17,7 +17,7 @@
     },
     {
       "chainId": 420692,
-      "address": "0x5dd81Fd9f0Bfd5ea0e07E42079FBaEAb154f597B",
+      "address": "0xDdE3C6eFEfc6a54f7c2a0500Ff0534C6017f139f",
       "name": "Alt Leap",
       "symbol": "LEAP",
       "decimals": 18,
